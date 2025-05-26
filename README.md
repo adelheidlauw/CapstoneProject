@@ -1,6 +1,3 @@
 # CapstoneProject
-1. Data Loading
-download dataset latih pada folder Training Dataset
-
-2. Training Program 
-run program python
+**Training Program**
+> Program berisi data loading dan data preprocessing (masih dalam progress)
