@@ -1,6 +1,6 @@
 # CapstoneProject
-Data Loading
+1. Data Loading
 download dataset latih pada folder Training Dataset
 
-Training Program 
+2. Training Program 
 run program python
